@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Nick Jia - HomePage"
+title: "Nick (Hengrui) Jia"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -11,9 +11,14 @@ redirect_from:
 I'm a PhD student at the [CleverHans Lab](https://cleverhans-lab.github.io/) at 
 the [Vector Insititute](https://vectorinstitute.ai/) and 
 [University of Toronto](https://www.utoronto.ca/), advised by 
-[Prof. Nicolas Papernot](https://www.papernot.fr/).
+[Prof. Nicolas Papernot](https://www.papernot.fr/). 
 
-
+My research interests are at the intersection of security and machine learning, or trustworthy machine learning. 
+In paticular, I wish to answer the following question: what risks may come along with the benefits brought by 
+machine learning, what/who is responsbile for such risks, and how can we mitigate them? If you would like to learn more
+ about my research, I recommend reading my publications listed below, or the corresponding blog posts such as 
+ [proof-of-learning](http://www.cleverhans.io/2021/07/30/pol.html), or 
+ [machine unlearning](http://www.cleverhans.io/2020/07/20/unlearning.html).
 
 Publications
 ======
