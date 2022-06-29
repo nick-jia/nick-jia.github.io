@@ -25,5 +25,5 @@ Awards
 
 **Vector Scholarship in Artificial Intelligence, Vector Institute** (2020-2021)
 
-**MDean's List, University of Toronto** (2016-2020)
+**Dean's List, University of Toronto** (2016-2020)
 
