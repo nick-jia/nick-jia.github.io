@@ -22,6 +22,10 @@ machine learning, what/who is responsbile for such risks, and how can we mitigat
 
 Publications
 ======
+<a href="https://arxiv.org/abs/2208.03567" target="_blank">On the Fundamental Limits of Formally (Dis)Proving Robustness in Proof-of-Learning</a>.
+              <i>Congyu Fang, <b>Hengrui Jia</b>, Anvith Thudi, Mohammad Yaghini, Christopher A. Choquette-Choo, Natalie Dullerud, Varun Chandrasekaran, Nicolas Papernot.</i>
+              Arxiv preprint.
+
 <a href="https://arxiv.org/abs/2110.11891" target="_blank">On the Necessity of Auditable Algorithmic Definitions for Machine Unlearning</a>.
               <i>Anvith Thudi, <b>Hengrui Jia</b>, Ilia Shumailov, Nicolas Papernot.</i>
               Proceedings of the 31st USENIX Security Symposium.
@@ -32,6 +36,7 @@ Publications
               
 <a href="https://arxiv.org/abs/2109.10870" target="_blank">SoK: Machine Learning Governance</a>.
               <i>Varun Chandrasekaran, <b>Hengrui Jia</b>, Anvith Thudi, Adelin Travers, Mohammad Yaghini, Nicolas Papernot.</i>
+              Arxiv preprint.
 
 <a href="https://arxiv.org/abs/2103.05633" target="_blank">Proof-of-Learning: Definitions and Practice</a>.
               <i><b>Hengrui Jia</b>, Mohammad Yaghini, Christopher A. Choquette-Choo, Natalie Dullerud, Anvith Thudi,
