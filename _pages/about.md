@@ -58,21 +58,21 @@ Publications
 
 Awards
 ======
-**Ontario Graduate Scholarship, Province of Ontario and University of Toronto** (2023-2024)
+**Ontario Graduate Scholarship**, Province of Ontario and University of Toronto (2023-2024)
 
-**Mary H. Beatty Fellowship, University of Toronto** (2022-2023)
+**Mary H. Beatty Fellowship**, University of Toronto (2022-2023)
 
-**Vector Scholarship in Artificial Intelligence, Vector Institute** (2020-2021)
+**Vector Scholarship in Artificial Intelligence**, Vector Institute (2020-2021)
 
-**Dean's List, University of Toronto** (2016-2020)
+**Dean's List**, University of Toronto (2016-2020)
 
 
 Invited Talks
 ======
-**Entangled Watermarks as a Defense against Model Extraction, Deepmind** (2023)
+Entangled Watermarks as a Defense against Model Extraction, Deepmind (2023)
 
-**A Zest of LIME: Towards Architecture-Independent Model Distances, Workshop on Algorithmic Audits of Algorithms** (2023)
+A Zest of LIME: Towards Architecture-Independent Model Distances, Workshop on Algorithmic Audits of Algorithms (2023)
 
-**Entangled Watermarks as a Defense against Model Extraction, Intel** (2022)
+Entangled Watermarks as a Defense against Model Extraction, Intel (2022)
 
-**Machine Unlearning, Vector Institute** (2021)
+Machine Unlearning, Vector Institute (2021)
