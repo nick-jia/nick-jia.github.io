@@ -22,8 +22,12 @@ machine learning, what/who is responsible for such risks, and how can we mitigat
 
 Publications
 ======
-<a href="https://arxiv.org/abs/2208.03567" target="_blank">On the Fundamental Limits of Formally (Dis)Proving Robustness in Proof-of-Learning</a>.
+<a href="https://arxiv.org/abs/2208.03567" target="_blank">Proof-of-Learning is Currently More Broken Than You Think</a>.
               <i>Congyu Fang, <b>Hengrui Jia</b>, Anvith Thudi, Mohammad Yaghini, Christopher A. Choquette-Choo, Natalie Dullerud, Varun Chandrasekaran, Nicolas Papernot.</i>
+              Proceedings of the 8th IEEE European Symposium on Security and Privacy.
+              
+<a href="https://arxiv.org/abs/2307.00310" target="_blank">Gradients Look Alike: Sensitivity is Often Overestimated in DP-SGD</a>.
+              <i>Anvith Thudi, <b>Hengrui Jia</b>, Casey Meehan, Ilia Shumailov, Nicolas Papernot.</i>
               Arxiv preprint.
 
 <a href="https://arxiv.org/abs/2110.11891" target="_blank">On the Necessity of Auditable Algorithmic Definitions for Machine Unlearning</a>.
@@ -52,4 +56,23 @@ Publications
                 Baiwu Zhang, David Lie, Nicolas Papernot.</i>
               Proceedings of the 42nd IEEE Symposium on Security and Privacy, San Francisco, CA.
 
+Awards
+======
+**Ontario Graduate Scholarship, Province of Ontario and University of Toronto** (2023-2024)
 
+**Mary H. Beatty Fellowship, University of Toronto** (2022-2023)
+
+**Vector Scholarship in Artificial Intelligence, Vector Institute** (2020-2021)
+
+**Dean's List, University of Toronto** (2016-2020)
+
+
+Invited Talks
+======
+**Entangled Watermarks as a Defense against Model Extraction, Deepmind** (2023)
+
+**A Zest of LIME: Towards Architecture-Independent Model Distances, Workshop on Algorithmic Audits of Algorithms** (2023)
+
+**Entangled Watermarks as a Defense against Model Extraction, Intel** (2022)
+
+**Machine Unlearning, Vector Institute** (2021)

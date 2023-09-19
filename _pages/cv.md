@@ -19,11 +19,5 @@ Education
 - Division of Engineering Science - Major in Machine Intelligence
 - Graduation with High Honours
 
-Awards
-======
-**Mary H. Beatty Fellowship, University of Toronto** (2022-2023)
 
-**Vector Scholarship in Artificial Intelligence, Vector Institute** (2020-2021)
-
-**Dean's List, University of Toronto** (2016-2020)
 
