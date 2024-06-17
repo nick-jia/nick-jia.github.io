@@ -22,13 +22,17 @@ machine learning, what/who is responsible for such risks, and how can we mitigat
 
 Publications
 ======
+<a href="https://arxiv.org/abs/2307.00310" target="_blank">Gradients Look Alike: Sensitivity is Often Overestimated in DP-SGD</a>.
+              <i>Anvith Thudi, <b>Hengrui Jia</b>, Casey Meehan, Ilia Shumailov, Nicolas Papernot.</i>
+              Proceedings of the 33rd USENIX Security Symposium.
+              
+<a href="https://arxiv.org/abs/2307.00310" target="_blank">LLM Dataset Inference: Did you train on my dataset?</a>.
+              <i>Pratyush Maini, <b>Hengrui Jia</b>, Nicolas Papernot, Adam Dziedzic.</i>
+              Arxiv preprint.
+
 <a href="https://arxiv.org/abs/2208.03567" target="_blank">Proof-of-Learning is Currently More Broken Than You Think</a>.
               <i>Congyu Fang, <b>Hengrui Jia</b>, Anvith Thudi, Mohammad Yaghini, Christopher A. Choquette-Choo, Natalie Dullerud, Varun Chandrasekaran, Nicolas Papernot.</i>
               Proceedings of the 8th IEEE European Symposium on Security and Privacy.
-              
-<a href="https://arxiv.org/abs/2307.00310" target="_blank">Gradients Look Alike: Sensitivity is Often Overestimated in DP-SGD</a>.
-              <i>Anvith Thudi, <b>Hengrui Jia</b>, Casey Meehan, Ilia Shumailov, Nicolas Papernot.</i>
-              Arxiv preprint.
 
 <a href="https://arxiv.org/abs/2110.11891" target="_blank">On the Necessity of Auditable Algorithmic Definitions for Machine Unlearning</a>.
               <i>Anvith Thudi, <b>Hengrui Jia</b>, Ilia Shumailov, Nicolas Papernot.</i>
@@ -58,6 +62,8 @@ Publications
 
 Awards
 ======
+**Ontario Graduate Scholarship**, Province of Ontario and University of Toronto (2024-2025)
+
 **Ontario Graduate Scholarship**, Province of Ontario and University of Toronto (2023-2024)
 
 **Mary H. Beatty Fellowship**, University of Toronto (2022-2023)
@@ -69,7 +75,13 @@ Awards
 
 Invited Talks
 ======
-Entangled Watermarks as a Defense against Model Extraction, Deepmind (2023)
+Ownership Resolution in ML, Northwestern University (2024)
+
+Ownership Resolution in ML, University of Wisconsin–Madison (2024)
+
+Ownership of ML Models, Mila - Quebec AI Institute (2024)
+
+Entangled Watermarks as a Defense against Model Extraction, DeepMind (2023)
 
 A Zest of LIME: Towards Architecture-Independent Model Distances, Workshop on Algorithmic Audits of Algorithms (2023)
 
