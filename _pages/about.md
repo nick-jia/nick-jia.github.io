@@ -75,6 +75,8 @@ Awards
 
 Invited Talks
 ======
+Ownership Resolution in ML, Purdue University (2024)
+
 Ownership Resolution in ML, Northwestern University (2024)
 
 Ownership Resolution in ML, University of Wisconsin–Madison (2024)

@@ -11,7 +11,11 @@ redirect_from:
 
 Education
 ======
-**Doctor of Philosophy, University of Toronto** (2020-Present)
+**Doctor of Philosophy, University of Toronto** (2022-Present)
+- The Edward S. Rogers Sr. Department of Electrical & Computer Engineering and Vector Institute
+- Advisior: Prof. Nicolas Papernot
+
+**Master of Applied Science, University of Toronto** (2020-2022)
 - The Edward S. Rogers Sr. Department of Electrical & Computer Engineering and Vector Institute
 - Advisior: Prof. Nicolas Papernot
 
