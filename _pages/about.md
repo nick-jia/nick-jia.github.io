@@ -22,14 +22,18 @@ machine learning, what/who is responsible for such risks, and how can we mitigat
 
 Publications
 ======
+<a href="https://arxiv.org/abs/2307.00310" target="_blank">Backdoor Detection through Replicated Execution of Outsourced Training</a>.
+              <i><b>Hengrui Jia</b>, Sierra Wyllie, Akram Bin Sediq, Ahmed Ibrahim, Nicolas Papernot.</i>
+              Proceedings of 3rd IEEE Conference on Secure and Trustworthy Machine Learning.
+
+<a href="https://arxiv.org/abs/2307.00310" target="_blank">LLM Dataset Inference: Did you train on my dataset?</a>.
+              <i>Pratyush Maini, <b>Hengrui Jia</b>, Nicolas Papernot, Adam Dziedzic.</i>
+              Proceedings of the 38th Annual Conference on Neural Information Processing Systems.
+
 <a href="https://arxiv.org/abs/2307.00310" target="_blank">Gradients Look Alike: Sensitivity is Often Overestimated in DP-SGD</a>.
               <i>Anvith Thudi, <b>Hengrui Jia</b>, Casey Meehan, Ilia Shumailov, Nicolas Papernot.</i>
               Proceedings of the 33rd USENIX Security Symposium.
               
-<a href="https://arxiv.org/abs/2307.00310" target="_blank">LLM Dataset Inference: Did you train on my dataset?</a>.
-              <i>Pratyush Maini, <b>Hengrui Jia</b>, Nicolas Papernot, Adam Dziedzic.</i>
-              Arxiv preprint.
-
 <a href="https://arxiv.org/abs/2208.03567" target="_blank">Proof-of-Learning is Currently More Broken Than You Think</a>.
               <i>Congyu Fang, <b>Hengrui Jia</b>, Anvith Thudi, Mohammad Yaghini, Christopher A. Choquette-Choo, Natalie Dullerud, Varun Chandrasekaran, Nicolas Papernot.</i>
               Proceedings of the 8th IEEE European Symposium on Security and Privacy.
