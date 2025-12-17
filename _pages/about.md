@@ -22,23 +22,23 @@ machine learning, what/who is responsible for such risks, and how can we mitigat
 
 Publications
 ======
-<a href="https://arxiv.org/abs/2307.00310" target="_blank">Backdoor Detection through Replicated Execution of Outsourced Training</a>.
+<a href="https://arxiv.org/abs/2504.00170" target="_blank">Backdoor Detection through Replicated Execution of Outsourced Training</a>.
               <i><b>Hengrui Jia</b>, Sierra Wyllie, Akram Bin Sediq, Ahmed Ibrahim, Nicolas Papernot.</i>
               Proceedings of 3rd IEEE Conference on Secure and Trustworthy Machine Learning.
 
-<a href="https://arxiv.org/abs/2307.00310" target="_blank">LLM Dataset Inference: Did you train on my dataset?</a>.
+<a href="https://openreview.net/pdf?id=Fr9d1UMc37" target="_blank">LLM Dataset Inference: Did you train on my dataset?</a>.
               <i>Pratyush Maini, <b>Hengrui Jia</b>, Nicolas Papernot, Adam Dziedzic.</i>
               Proceedings of the 38th Annual Conference on Neural Information Processing Systems.
 
-<a href="https://arxiv.org/abs/2307.00310" target="_blank">Gradients Look Alike: Sensitivity is Often Overestimated in DP-SGD</a>.
+<a href="https://www.usenix.org/system/files/usenixsecurity24-thudi.pdf" target="_blank">Gradients Look Alike: Sensitivity is Often Overestimated in DP-SGD</a>.
               <i>Anvith Thudi, <b>Hengrui Jia</b>, Casey Meehan, Ilia Shumailov, Nicolas Papernot.</i>
               Proceedings of the 33rd USENIX Security Symposium.
               
-<a href="https://arxiv.org/abs/2208.03567" target="_blank">Proof-of-Learning is Currently More Broken Than You Think</a>.
+<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10190491" target="_blank">Proof-of-Learning is Currently More Broken Than You Think</a>.
               <i>Congyu Fang, <b>Hengrui Jia</b>, Anvith Thudi, Mohammad Yaghini, Christopher A. Choquette-Choo, Natalie Dullerud, Varun Chandrasekaran, Nicolas Papernot.</i>
               Proceedings of the 8th IEEE European Symposium on Security and Privacy.
 
-<a href="https://arxiv.org/abs/2110.11891" target="_blank">On the Necessity of Auditable Algorithmic Definitions for Machine Unlearning</a>.
+<a href="https://www.usenix.org/system/files/sec22-thudi.pdf" target="_blank">On the Necessity of Auditable Algorithmic Definitions for Machine Unlearning</a>.
               <i>Anvith Thudi, <b>Hengrui Jia</b>, Ilia Shumailov, Nicolas Papernot.</i>
               Proceedings of the 31st USENIX Security Symposium.
              
@@ -50,16 +50,16 @@ Publications
               <i>Varun Chandrasekaran, <b>Hengrui Jia</b>, Anvith Thudi, Adelin Travers, Mohammad Yaghini, Nicolas Papernot.</i>
               Arxiv preprint.
 
-<a href="https://arxiv.org/abs/2103.05633" target="_blank">Proof-of-Learning: Definitions and Practice</a>.
+<a href="https://www.computer.org/csdl/proceedings-article/sp/2021/893400b832/1t0x9JPSLzG" target="_blank">Proof-of-Learning: Definitions and Practice</a>.
               <i><b>Hengrui Jia</b>, Mohammad Yaghini, Christopher A. Choquette-Choo, Natalie Dullerud, Anvith Thudi,
                 Varun Chandrasekaran, Nicolas Papernot.</i>
               Proceedings of the 42nd IEEE Symposium on Security and Privacy, San Francisco, CA. 
 
-<a href="https://arxiv.org/abs/2002.12200" target="_blank">Entangled Watermarks as a Defense against Model Extraction</a>.
+<a href="https://www.usenix.org/conference/usenixsecurity21/presentation/jia" target="_blank">Entangled Watermarks as a Defense against Model Extraction</a>.
               <i><b>Hengrui Jia</b>, Christopher A. Choquette-Choo, Varun Chandrasekaran, Nicolas Papernot.</i>
               Proceedings of the 30th USENIX Security Symposium.
               
-<a href="https://arxiv.org/abs/1912.03817" target="_blank">Machine Unlearning</a>.
+<a href="https://www.computer.org/csdl/proceedings-article/sp/2021/893400a319/1mbmHMYdSW4" target="_blank">Machine Unlearning</a>.
               <i>Lucas Bourtoule, Varun Chandrasekaran, Christopher A. Choquette-Choo, <b>Hengrui Jia</b>, Adelin Travers,
                 Baiwu Zhang, David Lie, Nicolas Papernot.</i>
               Proceedings of the 42nd IEEE Symposium on Security and Privacy, San Francisco, CA.
