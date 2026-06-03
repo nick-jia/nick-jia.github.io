@@ -28,7 +28,7 @@ machine learning, what/who is responsible for such risks, and how can we mitigat
 Publications
 ======
 <a href="https://arxiv.org/abs/2606.03811" target="_blank">AI Agents Enable Adaptive Computer Worms</a>.
-              Jonas Guan*, Tom Blanchard*, Hanna Foerster*, <i><b>Hengrui Jia*</b>, Gabriel Huang, Nicolas Papernot.</i>
+              <i>Jonas Guan*, Tom Blanchard*, Hanna Foerster*, <b>Hengrui Jia*</b>, Gabriel Huang, Nicolas Papernot.</i>
               Arxiv preprint.
 
 <a href="https://arxiv.org/abs/2512.19025" target="_blank">The Erasure Illusion: Stress-Testing the Generalization of LLM Forgetting Evaluation</a>.
