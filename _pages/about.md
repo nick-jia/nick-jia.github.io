@@ -8,6 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+<b>
+I will join <a href="https://nus.edu.sg/">National University of Singapore</a> as a Presidential Young Professor in the Department of Computer Science, School of Computing in 2027.
+I'm looking forward to advising and mentoring undergraduates, graduate students, and postdocs. Feel free to reach out if you are interested in working with me!
+</b>
+
 I'm a PhD student at the [CleverHans Lab](https://cleverhans-lab.github.io/) at 
 the [Vector Insititute](https://vectorinstitute.ai/) and 
 [University of Toronto](https://www.utoronto.ca/), advised by 
@@ -22,12 +27,20 @@ machine learning, what/who is responsible for such risks, and how can we mitigat
 
 Publications
 ======
+<a href="https://arxiv.org/abs/2606.03811" target="_blank">AI Agents Enable Adaptive Computer Worms</a>.
+              Jonas Guan*, Tom Blanchard*, Hanna Foerster*, <i><b>Hengrui Jia*</b>, Gabriel Huang, Nicolas Papernot.</i>
+              Arxiv preprint.
+
+<a href="https://arxiv.org/abs/2512.19025" target="_blank">The Erasure Illusion: Stress-Testing the Generalization of LLM Forgetting Evaluation</a>.
+              <i><b>Hengrui Jia</b>, Taoran Li, Jonas Guan, Varun Chandrasekaran.</i>
+              Arxiv preprint.
+
 <a href="https://arxiv.org/abs/2504.00170" target="_blank">Backdoor Detection through Replicated Execution of Outsourced Training</a>.
-              <i><b>Hengrui Jia</b>, Sierra Wyllie, Akram Bin Sediq, Ahmed Ibrahim, Nicolas Papernot.</i>
+              <i><b>Hengrui Jia*</b>, Sierra Wyllie*, Akram Bin Sediq, Ahmed Ibrahim, Nicolas Papernot.</i>
               Proceedings of 3rd IEEE Conference on Secure and Trustworthy Machine Learning.
 
 <a href="https://openreview.net/pdf?id=Fr9d1UMc37" target="_blank">LLM Dataset Inference: Did you train on my dataset?</a>.
-              <i>Pratyush Maini, <b>Hengrui Jia</b>, Nicolas Papernot, Adam Dziedzic.</i>
+              <i>Pratyush Maini*, <b>Hengrui Jia*</b>, Nicolas Papernot, Adam Dziedzic.</i>
               Proceedings of the 38th Annual Conference on Neural Information Processing Systems.
 
 <a href="https://www.usenix.org/system/files/usenixsecurity24-thudi.pdf" target="_blank">Gradients Look Alike: Sensitivity is Often Overestimated in DP-SGD</a>.
@@ -35,7 +48,7 @@ Publications
               Proceedings of the 33rd USENIX Security Symposium.
               
 <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10190491" target="_blank">Proof-of-Learning is Currently More Broken Than You Think</a>.
-              <i>Congyu Fang, <b>Hengrui Jia</b>, Anvith Thudi, Mohammad Yaghini, Christopher A. Choquette-Choo, Natalie Dullerud, Varun Chandrasekaran, Nicolas Papernot.</i>
+              <i>Congyu Fang*, <b>Hengrui Jia*</b>, Anvith Thudi, Mohammad Yaghini, Christopher A. Choquette-Choo, Natalie Dullerud, Varun Chandrasekaran, Nicolas Papernot.</i>
               Proceedings of the 8th IEEE European Symposium on Security and Privacy.
 
 <a href="https://www.usenix.org/system/files/sec22-thudi.pdf" target="_blank">On the Necessity of Auditable Algorithmic Definitions for Machine Unlearning</a>.
@@ -51,7 +64,7 @@ Publications
               Arxiv preprint.
 
 <a href="https://www.computer.org/csdl/proceedings-article/sp/2021/893400b832/1t0x9JPSLzG" target="_blank">Proof-of-Learning: Definitions and Practice</a>.
-              <i><b>Hengrui Jia</b>, Mohammad Yaghini, Christopher A. Choquette-Choo, Natalie Dullerud, Anvith Thudi,
+              <i><b>Hengrui Jia*</b>, Mohammad Yaghini*, Christopher A. Choquette-Choo, Natalie Dullerud, Anvith Thudi,
                 Varun Chandrasekaran, Nicolas Papernot.</i>
               Proceedings of the 42nd IEEE Symposium on Security and Privacy, San Francisco, CA. 
 
@@ -60,25 +73,15 @@ Publications
               Proceedings of the 30th USENIX Security Symposium.
               
 <a href="https://www.computer.org/csdl/proceedings-article/sp/2021/893400a319/1mbmHMYdSW4" target="_blank">Machine Unlearning</a>.
-              <i>Lucas Bourtoule, Varun Chandrasekaran, Christopher A. Choquette-Choo, <b>Hengrui Jia</b>, Adelin Travers,
-                Baiwu Zhang, David Lie, Nicolas Papernot.</i>
+              <i>Lucas Bourtoule*, Varun Chandrasekaran*, Christopher A. Choquette-Choo*, <b>Hengrui Jia*</b>, Adelin Travers*,
+                Baiwu Zhang*, David Lie, Nicolas Papernot.</i>
               Proceedings of the 42nd IEEE Symposium on Security and Privacy, San Francisco, CA.
-
-Awards
-======
-**Ontario Graduate Scholarship**, Province of Ontario and University of Toronto (2024-2025)
-
-**Ontario Graduate Scholarship**, Province of Ontario and University of Toronto (2023-2024)
-
-**Mary H. Beatty Fellowship**, University of Toronto (2022-2023)
-
-**Vector Scholarship in Artificial Intelligence**, Vector Institute (2020-2021)
-
-**Dean's List**, University of Toronto (2016-2020)
 
 
 Invited Talks
 ======
+What is unlearning and why it’s often hard, Vector Institute (2025)
+
 Ownership Resolution in ML, Purdue University (2024)
 
 Ownership Resolution in ML, Northwestern University (2024)
